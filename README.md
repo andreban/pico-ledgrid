@@ -1,3 +1,3 @@
 # pico-ledgrid
 
-![Schematics](./docs/LedGrid_bb)
+![Schematics](./docs/LedGrid_bb.jpg)
